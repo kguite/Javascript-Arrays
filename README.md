@@ -1,2 +1,2 @@
 # Javascript-Arrays
-Codewars Kata dealing with arrays
+Codewars Kata focusing on arrays
